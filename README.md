@@ -2,7 +2,7 @@
 
 ### 📖 About Me
 
-My name is Danilo, I'm a self-taught developer with 5 years of experience in graphic design. After graduating from the intensive 12 week long Java coding bootcamp organized by [IT Bootcamp](https://itbootcamp.rs), I have dedicated my time to learning more about industry practices and new technologies. Currently learning Kotlin as I want to develop apps for IoT as well as developing my [portfolio webiste](https://daniloasanin.com).
+My name is Danilo, I'm a graphic designer with 5 years of experience looking to transition into software development. I believe my experience designing user interfaces has provided me a good base and perspective when it comes to UI. After graduating from the intensive 12 week long Java coding bootcamp organized by [IT Bootcamp](https://itbootcamp.rs), I have dedicated my time to learning more about IT industry practices and new technologies. Currently learning Kotlin and developing my [portfolio webiste](https://daniloasanin.com).
 
 ---
 
