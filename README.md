@@ -24,7 +24,7 @@ My name is Danilo, I'm a graphic designer with 5 years of experience looking to 
 ---
 
 ### 📬 Contact
-If you'd like to get in touch, feel free to reach out via social media, <a href="daniloasanin.com" target="_blank" rel="noopener noreferrer">my website</a> or send me <a href="mailto:danilo.asanin+githubprofile?subject=Hello from GitHub" target="_blank" rel="noopener noreferrer">an email</a>.
+If you'd like to get in touch, feel free to reach out via social media, <a href="daniloasanin.com" target="_blank" rel="noopener noreferrer">my website</a> or send me <a href="mailto:danilo.asanin+githubprofile@gmail.com?subject=Hello from GitHub" target="_blank" rel="noopener noreferrer">an email</a>.
 
 <a href="https://www.linkedin.com/in/dvasanin" target="_blank" rel="noopener noreferrer"> <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> </a>
 <a href="https://www.behance.net/dvasanin" target="_blank" rel="noopener noreferrer"> <img align="left" alt="Behance" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg"/> </a>
