@@ -2,7 +2,7 @@
 
 ### 📖 About Me
 
-My name is Danilo, I'm a graphic designer with 5 years of experience looking to transition into software development. I believe my experience designing user interfaces has provided me a good base and perspective when it comes to UI. After graduating from the intensive 12 week long Java coding bootcamp organized by [IT Bootcamp](https://itbootcamp.rs), I have dedicated my time to learning more about IT industry practices and new technologies. Currently learning Kotlin and developing my [portfolio webiste](https://daniloasanin.com).
+My name is Danilo, I'm a graphic designer with 5 years of experience looking to transition into software development. I believe my experience designing user interfaces has provided me a good base and perspective when it comes to UI. After graduating from the intensive 12 week long Java coding bootcamp organized by [IT Bootcamp](https://itbootcamp.rs), I have dedicated my time to learning more about IT industry practices and new technologies. Currently learning Kotlin and developing my [portfolio website](https://daniloasanin.com).
 
 ---
 
@@ -24,7 +24,7 @@ My name is Danilo, I'm a graphic designer with 5 years of experience looking to 
 ---
 
 ### 📬 Contact
-If you'd like to get in touch, feel free to reach out via social media, <a href="https://www.daniloasanin.com" target="_blank" rel="noopener noreferrer">my website</a> or send me <a href="mailto:danilo.asanin+githubprofile@gmail.com?subject=Hello from GitHub" target="_blank" rel="noopener noreferrer">an email</a>.
+If you'd like to get in touch, feel free to reach out via social media, [my website](https://daniloasanin.com) or send me <a href="mailto:danilo.asanin+githubprofile@gmail.com?subject=Hello from GitHub" target="_blank" rel="noopener noreferrer">an email</a>.
 
 <a href="https://www.linkedin.com/in/dvasanin" target="_blank" rel="noopener noreferrer"> <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> </a>
 <a href="https://www.behance.net/dvasanin" target="_blank" rel="noopener noreferrer"> <img align="left" alt="Behance" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg"/> </a>
